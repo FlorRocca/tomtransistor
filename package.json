@@ -1,0 +1,23 @@
+{
+  "name": "tomtransistor",
+  "version": "1.0.0",
+  "description": "Sitio web creado para consumir por primera vez una API y para practicar asincronismo con JS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorRocca/tomtransistor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorRocca/tomtransistor/issues"
+  },
+  "homepage": "https://github.com/FlorRocca/tomtransistor#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
